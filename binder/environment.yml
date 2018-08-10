@@ -1,4 +1,4 @@
-name: daily_chart
+name: dataviz
 channels:
   - conda-forge
   - defaults
@@ -102,5 +102,5 @@ dependencies:
   - numpy=1.14.3=py36he6379a5_2
   - numpy-base=1.14.3=py36h7ef55bc_1
   - twisted=17.5.0=py36_0
-prefix: /anaconda/envs/daily_chart
+
 
