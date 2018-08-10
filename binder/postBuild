@@ -1,0 +1,4 @@
+cd #100Viz
+
+#extensions
+jupyter labextension install @jupyterlab/geojson-extension
