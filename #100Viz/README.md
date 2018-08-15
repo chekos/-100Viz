@@ -7,6 +7,8 @@ Each folder should contain
 
 Each containing their own set of folders (working vs final, etc.) unless the file is too big for GitHub, all files should be found here. 
 
+***
+
   <h3> Week 0 </h3>
 <p align="center">
   <img href="https://www.instagram.com/p/BmLgijlDTzS/?utm_source=ig_web_copy_link" src="https://github.com/Chekos/-100Viz/raw/master/%23100Viz/01%20-%20Firefighters%20in%20CA/images/%23100Viz%2001%20Fighting%20Fire%20in%20California.png"  height="150" title="01 - Fighting Fire in CA">
