@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JupyterLab</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script id="jupyter-config-data" type="application/json">{
+    "hub_prefix": "/hub/",
+    "hub_host": "",
+    "hub_user": "chekos",
+    "token": "f26d11c9f2a24fada55ed396e9c46df3",
+    "buildAvailable": "True",
+    "buildCheck": "True",
+    "devMode": "False",
+    "notebookVersion": "[5, 6, 0]",
+    "terminalsAvailable": "True",
+    "ignorePlugins": "[]",
+    "serverRoot": "/home/jovyan",
+    "mathjaxConfig": "TeX-AMS-MML_HTMLorMML-full,Safe",
+    "mathjaxUrl": "/user/chekos/static/components/MathJax/MathJax.js",
+    "appName": "JupyterLab",
+    "appNamespace": "jupyterlab",
+    "appSettingsDir": "/opt/conda/share/jupyter/lab/settings",
+    "appVersion": "0.33.7",
+    "cacheFiles": "True",
+    "pageUrl": "/lab",
+    "publicUrl": "/user/chekos/lab/static/",
+    "schemasDir": "/opt/conda/share/jupyter/lab/schemas",
+    "settingsUrl": "/user/chekos/lab/api/settings/",
+    "staticDir": "/opt/conda/share/jupyter/lab/static",
+    "templatesDir": "/opt/conda/share/jupyter/lab/static",
+    "themesDir": "/opt/conda/share/jupyter/lab/themes",
+    "themesUrl": "/user/chekos/lab/api/themes/",
+    "treeUrl": "/lab/tree/",
+    "userSettingsDir": "/home/jovyan/.jupyter/lab/user-settings",
+    "workspacesDir": "/home/jovyan/.jupyter/lab/workspaces",
+    "workspacesUrl": "/user/chekos/lab/workspaces/",
+    "baseUrl": "/user/chekos/",
+    "wsUrl": ""
+  }</script>
+
+  
+  <link rel="icon" type="image/x-icon" href="/user/chekos/static/base/images/favicon.ico" class="idle favicon">
+  <link rel="" type="image/x-icon" href="/user/chekos/static/base/images/favicon-busy-1.ico" class="busy favicon">
+  
+
+</head>
+<body>
+
+<script type="text/javascript">
+  /* Remove token from URL. */
+  (function () {
+    var location = window.location;
+    var search = location.search;
+
+    // If there is no query string, bail.
+    if (search.length <= 1) {
+      return;
+    }
+
+    // Rebuild the query string without the `token`.
+    var query = '?' + search.slice(1).split('&')
+      .filter(function (param) { return param.split('=')[0] !== 'token'; })
+      .join('&');
+
+    // Rebuild the URL with the new query string.
+    var url = location.origin + location.pathname +
+      (query !== '?' ? query : '') + location.hash;
+
+    window.history.replaceState({ }, '', url);
+  })();
+</script>
+
+<script type="text/javascript" src="/user/chekos/lab/static/vendors~main.ff77ffadaa0963bcd85e.js"></script><script type="text/javascript" src="/user/chekos/lab/static/main.37098424096980c94a95.js"></script></body>
+</html>
