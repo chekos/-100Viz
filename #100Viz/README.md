@@ -19,3 +19,11 @@ Each containing their own set of folders (working vs final, etc.) unless the fil
   <img href="https://www.instagram.com/p/BmeOCkBlQRr/?utm_source=ig_web_copy_link" src="https://github.com/Chekos/-100Viz/raw/master/%23100Viz/06%20-%20Visualizing%20Strata%20(Remix)/images/final/%23100Viz%2006%20Visualizing%20Strata%20(Remix).PNG"  height="150" title="06 - Visualizing Strata (Remix)">
   <img src="https://github.com/Chekos/-100Viz/blob/master/%23100Viz/07%20-%20Arriving%20Education%20(Remix)/images/final/%23100Viz%2007%20Arriving%20Education%20(Remix).png" " height="150" title="07 - Arriving Education (Remix)">
 </p>
+
+***
+
+<h3> Week 1 </h3>
+<p align="center">
+  <img href="https://www.instagram.com/p/BmjvbDZloqi/?utm_source=ig_web_copy_link" src="https://github.com/Chekos/-100Viz/blob/master/%23100Viz/08%20-%20Testing%20Gifs/images/%23100Viz%2009%20Testing%20Gifs.gif"  height="150" title="08 - Testing Gifsgit">
+  <img href="https://www.instagram.com/p/BmlzZjDF0NZ/?utm_source=ig_web_copy_link" src="https://github.com/Chekos/-100Viz/blob/master/%23100Viz/09%20-%20Seeing%20Stocks/images/09%20Seeing%20Stocks.gif"  height="150" title="09 - Seeing Stocks">
+</p>
