@@ -1,0 +1,154 @@
+year,system,classification,total
+2000,CSU,Humanities,14767
+2000,CSU,STEM,6916
+2000,CSU,Social and Behavioral Sciences,10824
+2000,Private non-profit,Humanities,5671
+2000,Private non-profit,STEM,3674
+2000,Private non-profit,Social and Behavioral Sciences,5513
+2000,UC,Humanities,5751
+2000,UC,STEM,9098
+2000,UC,Social and Behavioral Sciences,11554
+2001,CSU,Humanities,15629
+2001,CSU,STEM,6733
+2001,CSU,Social and Behavioral Sciences,11070
+2001,Private non-profit,Humanities,6273
+2001,Private non-profit,STEM,3556
+2001,Private non-profit,Social and Behavioral Sciences,5540
+2001,UC,Humanities,6434
+2001,UC,STEM,9546
+2001,UC,Social and Behavioral Sciences,12410
+2002,CSU,Humanities,17182
+2002,CSU,STEM,7298
+2002,CSU,Social and Behavioral Sciences,12102
+2002,Private non-profit,Humanities,6659
+2002,Private non-profit,STEM,3725
+2002,Private non-profit,Social and Behavioral Sciences,5897
+2002,UC,Humanities,6663
+2002,UC,STEM,9717
+2002,UC,Social and Behavioral Sciences,13213
+2003,CSU,Humanities,18468
+2003,CSU,STEM,7503
+2003,CSU,Social and Behavioral Sciences,10500
+2003,Private non-profit,Humanities,7713
+2003,Private non-profit,STEM,3718
+2003,Private non-profit,Social and Behavioral Sciences,5717
+2003,UC,Humanities,8153
+2003,UC,STEM,10322
+2003,UC,Social and Behavioral Sciences,12209
+2004,CSU,Humanities,19675
+2004,CSU,STEM,7778
+2004,CSU,Social and Behavioral Sciences,10946
+2004,Private non-profit,Humanities,8087
+2004,Private non-profit,STEM,3667
+2004,Private non-profit,Social and Behavioral Sciences,5725
+2004,UC,Humanities,8542
+2004,UC,STEM,10699
+2004,UC,Social and Behavioral Sciences,12860
+2005,CSU,Humanities,20265
+2005,CSU,STEM,7722
+2005,CSU,Social and Behavioral Sciences,11397
+2005,Private non-profit,Humanities,8384
+2005,Private non-profit,STEM,3552
+2005,Private non-profit,Social and Behavioral Sciences,5978
+2005,UC,Humanities,8689
+2005,UC,STEM,11638
+2005,UC,Social and Behavioral Sciences,13867
+2006,CSU,Humanities,20375
+2006,CSU,STEM,8178
+2006,CSU,Social and Behavioral Sciences,12219
+2006,Private non-profit,Humanities,8525
+2006,Private non-profit,STEM,3522
+2006,Private non-profit,Social and Behavioral Sciences,6221
+2006,UC,Humanities,8916
+2006,UC,STEM,11790
+2006,UC,Social and Behavioral Sciences,14368
+2007,CSU,Humanities,20332
+2007,CSU,STEM,8035
+2007,CSU,Social and Behavioral Sciences,13006
+2007,Private non-profit,Humanities,8351
+2007,Private non-profit,STEM,3486
+2007,Private non-profit,Social and Behavioral Sciences,6122
+2007,UC,Humanities,8802
+2007,UC,STEM,12022
+2007,UC,Social and Behavioral Sciences,14184
+2008,CSU,Humanities,20210
+2008,CSU,STEM,8355
+2008,CSU,Social and Behavioral Sciences,13669
+2008,Private non-profit,Humanities,8392
+2008,Private non-profit,STEM,3517
+2008,Private non-profit,Social and Behavioral Sciences,6185
+2008,UC,Humanities,9072
+2008,UC,STEM,12149
+2008,UC,Social and Behavioral Sciences,14208
+2009,CSU,Humanities,19763
+2009,CSU,STEM,8160
+2009,CSU,Social and Behavioral Sciences,13947
+2009,Private non-profit,Humanities,8305
+2009,Private non-profit,STEM,3512
+2009,Private non-profit,Social and Behavioral Sciences,5869
+2009,UC,Humanities,8771
+2009,UC,STEM,12461
+2009,UC,Social and Behavioral Sciences,14081
+2010,CSU,Humanities,19740
+2010,CSU,STEM,8296
+2010,CSU,Social and Behavioral Sciences,13954
+2010,Private non-profit,Humanities,8377
+2010,Private non-profit,STEM,3635
+2010,Private non-profit,Social and Behavioral Sciences,5898
+2010,UC,Humanities,9083
+2010,UC,STEM,13130
+2010,UC,Social and Behavioral Sciences,14733
+2011,CSU,Humanities,19957
+2011,CSU,STEM,8323
+2011,CSU,Social and Behavioral Sciences,14509
+2011,Private non-profit,Humanities,8448
+2011,Private non-profit,STEM,3751
+2011,Private non-profit,Social and Behavioral Sciences,6278
+2011,UC,Humanities,9017
+2011,UC,STEM,14082
+2011,UC,Social and Behavioral Sciences,15463
+2012,CSU,Humanities,19253
+2012,CSU,STEM,9001
+2012,CSU,Social and Behavioral Sciences,14306
+2012,Private non-profit,Humanities,8469
+2012,Private non-profit,STEM,4106
+2012,Private non-profit,Social and Behavioral Sciences,7002
+2012,UC,Humanities,9342
+2012,UC,STEM,14991
+2012,UC,Social and Behavioral Sciences,16050
+2013,CSU,Humanities,19963
+2013,CSU,STEM,10049
+2013,CSU,Social and Behavioral Sciences,15860
+2013,Private non-profit,Humanities,8806
+2013,Private non-profit,STEM,4430
+2013,Private non-profit,Social and Behavioral Sciences,6910
+2013,UC,Humanities,8987
+2013,UC,STEM,15471
+2013,UC,Social and Behavioral Sciences,16235
+2014,CSU,Humanities,19788
+2014,CSU,STEM,11097
+2014,CSU,Social and Behavioral Sciences,16854
+2014,Private non-profit,Humanities,8902
+2014,Private non-profit,STEM,4974
+2014,Private non-profit,Social and Behavioral Sciences,6962
+2014,UC,Humanities,8130
+2014,UC,STEM,16040
+2014,UC,Social and Behavioral Sciences,15499
+2015,CSU,Humanities,19033
+2015,CSU,STEM,12016
+2015,CSU,Social and Behavioral Sciences,16843
+2015,Private non-profit,Humanities,8746
+2015,Private non-profit,STEM,5052
+2015,Private non-profit,Social and Behavioral Sciences,7032
+2015,UC,Humanities,7770
+2015,UC,STEM,16867
+2015,UC,Social and Behavioral Sciences,15760
+2016,CSU,Humanities,19147
+2016,CSU,STEM,13160
+2016,CSU,Social and Behavioral Sciences,17781
+2016,Private non-profit,Humanities,8094
+2016,Private non-profit,STEM,5622
+2016,Private non-profit,Social and Behavioral Sciences,6718
+2016,UC,Humanities,7486
+2016,UC,STEM,18119
+2016,UC,Social and Behavioral Sciences,15740
