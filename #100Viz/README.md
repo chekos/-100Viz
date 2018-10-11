@@ -11,20 +11,20 @@ Each containing their own set of folders (working vs final, etc.) unless the fil
 
   <h3> Set 0 </h3>
 <p align="center">
-  <img src="01 - Firefighters in CA/images/#100Viz 01 Fighting Fire in California.png"  height="150" title="01 - Fighting Fire in CA">
-  <img src="02 - Recent Arrivals Education in CA/images/final/#100Viz 02 Arriving Education.png"  height="150" title="02 - Arriving Education">
-  <img src="03 - Afromexicans map/images/final/#100Viz 03 - Reckoning Roots.png"  height="150" title="03 - Reckoning Roots">
-  <img src="04 - Afro-Mexicans (Remix) Ft. Datawrapper/images/#100Viz 04 Afro-Mexicans (Remix) Ft. Datawrapper.png"  height="150" title="04 - Reckoning Roots (Remix) Ft. Datawrapper">
-  <img src="05 - Visualizing Strata/images/#100Viz 05 - Visualizing Strata.png" height="150" title="05 - Visualizing Strata">
-  <img src="06 - Visualizing Strata (Remix)/images/final/#100Viz 06 Visualizing Strata (Remix).PNG"  height="150" title="06 - Visualizing Strata (Remix)">
-  <img src="07 - Arriving Education (Remix)/images/final/#100Viz 07 Arriving Education (Remix).png" height="150" title="07 - Arriving Education (Remix)">
+  <img src="01 - Firefighters in CA/images/\#100Viz 01 Fighting Fire in California.png"  height="150" title="01 - Fighting Fire in CA">
+  <img src="02 - Recent Arrivals Education in CA/images/final/\#100Viz 02 Arriving Education.png"  height="150" title="02 - Arriving Education">
+  <img src="03 - Afromexicans map/images/final/\#100Viz 03 - Reckoning Roots.png"  height="150" title="03 - Reckoning Roots">
+  <img src="04 - Afro-Mexicans (Remix) Ft. Datawrapper/images/\#100Viz 04 Afro-Mexicans (Remix) Ft. Datawrapper.png"  height="150" title="04 - Reckoning Roots (Remix) Ft. Datawrapper">
+  <img src="05 - Visualizing Strata/images/\#100Viz 05 - Visualizing Strata.png" height="150" title="05 - Visualizing Strata">
+  <img src="06 - Visualizing Strata (Remix)/images/final/\#100Viz 06 Visualizing Strata (Remix).PNG"  height="150" title="06 - Visualizing Strata (Remix)">
+  <img src="07 - Arriving Education (Remix)/images/final/\#100Viz 07 Arriving Education (Remix).png" height="150" title="07 - Arriving Education (Remix)">
 </p>
 
 ***
 
   <h3> Set 1 </h3>
 <p align="center">
-  <img src="08 - Testing Gifs/images/#100Viz 09 Testing Gifs.gif"  height="150" title="08 - Testing Gifsgit">
+  <img src="08 - Testing Gifs/images/\#100Viz 09 Testing Gifs.gif"  height="150" title="08 - Testing Gifsgit">
   <img src="09 - Seeing Stocks/images/09 Seeing Stocks.gif"  height="150" title="09 - Seeing Stocks">
   <img src="10 - Declining Humanity/images/10_Stagnant_Humanity.png"  height="150" title="10 - Stagnant Humanity">
   <img src="11 - Breaking Even/images/11 - Breaking Even.png"  height="150" title="11 - Breaking Even">
