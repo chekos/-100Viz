@@ -30,5 +30,5 @@ Each containing their own set of folders (working vs final, etc.) unless the fil
   <img src="https://github.com/Chekos/-100Viz/blob/master/%23100Viz/11%20-%20Breaking%20Even/images/11%20-%20Breaking%20Even.png"  height="150" title="11 - Breaking Even">
   <img src="https://github.com/Chekos/-100Viz/blob/master/%23100Viz/12%20-%20Rappin'%20LATAM/images/final/12%20-%20Reppin'%20LATAM.png"  height="150" title="12 - Reppin' LATAM">
   <img src="https://github.com/Chekos/-100Viz/blob/master/%23100Viz/13%20-%20Rap%20Bruto/images/final/13_Rap_Bruto.png"  height="150" title="13 - Rap Bruto">
-  <img src="/14 - Finding Stories/images/final/14_-_Finding_Stories.png" height="150", title="14 - Finding Stories">
+  <img src="14 - Finding Stories/images/final/14_-_Finding_Stories.png" height="150", title="14 - Finding Stories">
 </p>
