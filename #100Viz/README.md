@@ -32,3 +32,13 @@ Each containing their own set of folders (working vs final, etc.) unless the fil
   <img src="13 - Rap Bruto/images/final/13_Rap_Bruto.png"  height="150" title="13 - Rap Bruto">
   <img src="14 - Finding Stories/images/final/14_-_Finding_Stories.png" height="150", title="14 - Finding Stories">
 </p>
+
+***
+
+  <h3> Set 2 </h3>
+<p align="center">
+  <img src="15 - Finding Stories (Remix)/images/final/15 - Finding Stories (Remix).png"  height="150" title="15 - Finding Stories (Remix)">
+
+</p>
+
+***
