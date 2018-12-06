@@ -94,7 +94,7 @@ def cimarron_theme():
                "fill": backgroundColor,
            },
            "legend": {
-               "labelFontSize": 30,
+               "labelFontSize": 32,
                "labelFont": labelfont,
                "labelLimit": 500,
                "padding": 10,
@@ -103,6 +103,7 @@ def cimarron_theme():
                "titleFontSize": 30,
                "titlePadding": 10,
                "titleFont": font,
+               "titleLimit": 800,
            },
            "line": {
                "color": markColor,
@@ -172,7 +173,7 @@ def cimarron_theme():
            },
            "title":{
                "anchor": "start",
-               "fontSize": 48,
+               "fontSize": 60,
                "fontWeight": 600,
                "font": font,
                "offset": 20,
