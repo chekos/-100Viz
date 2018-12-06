@@ -38,6 +38,7 @@ Each containing their own set of folders (working vs final, etc.) unless the fil
   <h3> Set 2 </h3>
 <p align="center">
   <img src="15 - Finding Stories (Remix)/images/final/15 - Finding Stories (Remix).png"  height="150" title="15 - Finding Stories (Remix)">
+  <img src="16 - BAs in the Bay/reports/figures/16 - BAs in the Bay.png"  height="150" title="16 - BAs in the Bay">
 
 </p>
 
