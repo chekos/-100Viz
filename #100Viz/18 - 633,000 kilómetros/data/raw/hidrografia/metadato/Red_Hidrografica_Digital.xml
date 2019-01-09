@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Instituto Nacional de Estadística y Geografía - INEGI(ed.)</origin>
+<pubdate>Unknown</pubdate>
+<pubtime>Unknown</pubtime>
+<title>RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA 1:250 000</title>
+<edition>I</edition>
+<geoform>map</geoform>
+<serinfo>
+<sername>Hidrología</sername>
+<issue>Primera</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Aguascalientes, Ags., México.</pubplace>
+<publish>Instituto Nacional de Estadística y Geografía - INEGI.</publish>
+</pubinfo>
+<onlink>http://www.inegi.org.mx/</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+La RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA
+1:250 000, Edición 1.0. Es el resultado de conectar y dar
+sentido lógico de acuerdo con la topografía, los ríos,
+arroyos, canales y acueductos; el procedimiento consisti
+en generar por medios automatizados y
+semiautomatizados; la continuidad en el trazo desde el
+nacimiento de una corriente de agua hasta su
+desembocadura al mar, cuerpo de agua interior o bien al
+desaparecer por algún proceso de infiltración al subsuelo.
+La red de drenaje se define básicamente como un sistema
+de cauces por el cual fluyen los escurrimientos
+superficiales y subsuperficiales de manera temporal o
+permanente. Su importancia se manifiesta por sus efectos
+en la formación y rapidez del drenado de escurrimientos
+normales o extraordinarios; además de proporcionar
+indicios sobre las condiciones físicas de los suelos, la
+superficie y morfometría de la cuenca. Tipos de corriente y
+magnitud de orden dentro de una cuenca.
+Por lo tanto, las corrientes comúnmente se clasifican en;
+perennes e intermitentes; ello con base a la constancia de
+su escurrimiento o flujo, el cual está relacionado con las
+características físicas y climáticas de la cuenca. Las
+corrientes perennes conducen agua todo el tiempo,
+excepto durante sequías extremas. Una corriente
+intermitente lleva agua la mayor parte del tiempo, pero
+principalmente en épocas de lluvias.
+Las obras de infraestructura hidráulica que permiten la
+continuidad de la Red Hidrográfica, consideradas en esta
+obra son canal y acueducto.
+</abstract>
+<purpose>
+Brindar a los usuarios una herramienta digital que facilite
+proyectos de planeación, manejo y gestión de los recursos
+naturales, en especial bajo el enfoque de Cuenca
+Hidrográfica.
+Disponer de una red hidrográfica digital nacional, significa
+contar con un sistema de circulación lineal, jerarquizado y
+estructurado que representa el drenaje de una cuenca o
+una región determinada. Este esfuerzo busca homogenizar
+criterios entre las distintas instituciones académicas y
+dependencias gubernamentales, y brindar una red
+hidrográfica nacional estandarizada para los diferentes
+usuarios de la información hidrológica y potenciales
+tomadores de decisiones.
+</purpose>
+<supplinf>
+La RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA
+1:250 000, Edición 1.0, está disponible en formato shape
+y estructurada para ser utilizada como red geométrica que
+permita el análisis espacial.
+El formato Shape (shp) es compatible con numerosas
+plataformas que permitan la manipulación de datos
+geográficos en aplicaciones cartográficas y de Sistemas
+de Información Geográfica SIG; por tal motivo, y con la
+idea de que el usuario recupere en forma íntegra las
+entidades y atributos establecidos en el modelo
+conceptual, se optó por distribuir la información en formato
+Shape.
+El diseño de la cobertura tiene la finalidad de conservar la
+información de los rasgos geográficos, sus valores y
+atributos, y no contiene implícito un esquema de
+representación cartográfica, como colores, tipos de línea,
+símbolos, etcétera. Una vez recuperados los datos, el
+usuario podrá establecer las reglas de representación y
+modelaje cartográfico que mejor le convenga.
+La información está estructurada de modo que garantiza la
+consistencia geométrica de los elementos vectoriales, esta
+característica permite su adecuación en diversos formatos
+digitales, en sistemas de información geográfica y de
+cartografía asistida por computadora.
+La referencia geográfica de la información permite que la
+información RED HIDROGRÁFICA DIGITAL DE MÉXICO
+ESCALA 1:250 000, Edición 1.0 se integre con otros
+grupos de datos vectoriales o de tipo raster, como los
+modelos digitales de elevación, o imágenes obtenidas por
+sensores remotos.
+Los datos están estructurados vectorialmente sin
+inconsistencias geométricas, lo que permite desarrollar la
+topología requerida en la aplicación particular que
+satisfaga las necesidades del usuario.
+El manejo de la información da la posibilidad de obtener
+gráficas y estadísticas de alguna región de interés, sujeto
+solamente a la disponibilidad y capacidad de
+infraestructura para impresión del usuario (graficadores,
+impresoras, entre otras). Archivos que conforman la
+cobertura en formato shape:
+Red_hidrografica_250k.dbf
+Red_hidrografica_250k.sbn
+Red_hidrografica_250k.sbx
+Red_hidrografica_250k.shp
+Red_hidrografica_250k.shx
+</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>20061200</caldate>
+</sngdate>
+</timeinfo>
+<current>Publication Date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-120.000000</westbc>
+<eastbc>-084.000000</eastbc>
+<northbc>+36.000000</northbc>
+<southbc>+12.000000</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Arroyo</themekey>
+<themekey>Canal</themekey>
+<themekey>Red Geométrica</themekey>
+<themekey>Regimen</themekey>
+<themekey>Río</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>Regiones Hidrológicas</placekey>
+<placekey>Río Ameca</placekey>
+<placekey>Río Armeria</placekey>
+<placekey>Río Balsas</placekey>
+<placekey>Río Bravo</placekey>
+<placekey>Río Candelaria</placekey>
+<placekey>Río Cazones</placekey>
+<placekey>Río Coahuayana</placekey>
+<placekey>Río Coatán</placekey>
+<placekey>Río Coatzacoalcos</placekey>
+<placekey>Río Colorado</placekey>
+<placekey>Río Elota</placekey>
+<placekey>Río Grijalva</placekey>
+<placekey>Río Hondo</placekey>
+<placekey>Río Lerma</placekey>
+<placekey>Río Nazas</placekey>
+<placekey>Río Ometepec</placekey>
+<placekey>Río Papagayo</placekey>
+<placekey>Río Papaloapan</placekey>
+<placekey>Río San Pedro</placekey>
+<placekey>Río Santiago</placekey>
+<placekey>Río Soto La Marina</placekey>
+<placekey>Río Suchiate</placekey>
+<placekey>Río Tehuantepec</placekey>
+<placekey>Río Tijuana</placekey>
+<placekey>Río Usumacinta</placekey>
+<placekey>Río Verde</placekey>
+<placekey>Río Yaqui</placekey>
+<placekey>México</placekey>
+</place>
+</keywords>
+<accconst>
+Acceso con costo al público a través de los centros de
+venta del Instituto Nacional de Estadística y Geografía.
+INEGI.
+</accconst>
+<useconst>None</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Instituto Nacional de Estadística y Geografía - INEGI.</cntorg>
+<cntper>Geól. Rogelio Mondragón Bonilla.</cntper>
+</cntorgp>
+<cntpos>Jefe del Departamento de Hidrología.</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>
+Av. Héroe de Nacozari Sur # 2301.
+Fraccionamiento Jardines del
+Parque, Puerta 9 primer nivel.
+</address>
+<city>Aguascalientes</city>
+<state>Aguascalientes</state>
+<postal>20276</postal>
+<country>México</country>
+</cntaddr>
+<cntvoice>52 (449) 9 10 53 00 Extensión 4969</cntvoice>
+<cntfax>52 (449) 9 18 07 39</cntfax>
+<cntemail>rogelio.mondragon@inegi.org.mx</cntemail>
+<hours>De 8:30 a 16:30 hrs., de lunes a viernes.</hours>
+<cntinst>
+Solicitar informes a los Centros de Venta del INEGI
+distribuidos en todo el país o en las Oficinas Centrales
+localizadas en la ciudad de Aguascalientes, México.
+</cntinst>
+</cntinfo>
+</ptcontac>
+<datacred>
+Esta obra está protegida por la Ley Federal del Derecho
+de Autor, por lo tanto está inscrita en el Registro público
+del Derecho de Autor, siendo el INEGI el titular de los
+derechos correspondientes.
+</datacred>
+<secinfo>
+<secsys>no</secsys>
+<secclass>Restricted</secclass>
+<sechandl>Ninguno</sechandl>
+</secinfo>
+<native>Carta Topográfica escala 1:250 000 editada por el INEGI.</native>
+</idinfo>
+<dataqual>
+<logic>
+Para mantener el control de calidad y la confiabilidad de
+los datos de la RED HIDROGRÁFICA DIGITAL DE
+MÉXICO ESCALA 1:250 000, Edición 1.0, se realizaron
+cuatro etapas en secuencia, que a su vez agrupan varias
+actividades interrelacionadas que permiten la validación.
+1. Identificación de entidades geográficas declaradas por
+la carta topográfica mediante la sobre posición a imágenes
+de satélite spot.
+2. Verificación de atributos.
+3. Ajuste con los límites de las cuencas hidrográficas a
+nivel de región hidrográfica.
+4. Integración del Conjunto de Datos Nacional.
+</logic>
+<complete>
+La información está estructurada de tal modo que
+garantiza la consistencia geométrica de los elementos
+vectoriales, lo que permite su adecuación en diversas
+plataformas SIG y otros sistemas. La referencia geográfica
+permite que la Red se integre con otros grupos de datos
+vectoriales o de tipo raster. Además está estructurada para
+generar Redes Geométricas en las cuales los rasgos
+hidrográficos lineales generalmente son representados
+mediante nodos y ejes que definen el sentido o dirección
+del flujo de las aguas superficiales.
+</complete>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Instituto Nacional de Estadística y Geografía - INEGI(ed.)</origin>
+<pubdate>Unknown</pubdate>
+<pubtime>Unknown</pubtime>
+<title>Carta Topográfica Escala 1:250 000</title>
+<edition>II</edition>
+<geoform>map</geoform>
+<serinfo>
+<sername>Carta Topográfica Escala 1:250 000</sername>
+<issue>Segunda edición</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Aguascalientes, Ags.</pubplace>
+<publish>INEGI</publish>
+</pubinfo>
+<onlink>http://www.inegi.org.mx/</onlink>
+</citeinfo>
+</srccite>
+<typesrc>CD-ROM</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>20061200</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Publication Date</srccurr>
+</srctime>
+<srccitea>INEGI</srccitea>
+<srccontr>
+La carta topográfica escala 1:250 000 editada por INEGI
+tiene cubrimiento nacional, considera entre su información
+los acueductos, arroyos, canales y ríos del país,
+originalmente se emitió como un producto impreso en
+papel y una vez convertida a formato digital, fue insumo
+base para producir la RED HIDROGRÁFICA DIGITAL DE
+MÉXICO ESCALA 1:250  000, Edición 1.0.
+</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>
+La información de la Carta Topográfica escala 1:250 000,
+generada por el Instituto Nacional de Estadística y
+Geografía; constituyó el insumo principal para elaborar la
+RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA
+1:250 000, Edición 1.0. Los pasos metodológicos fueron:
+Integración, revisión y rectificación de la red hidrográfica
+1:250 000 a nivel de cuenca hidrográfica.
+Procesamiento del Modelo Digital del Terreno, para
+sombreado del relieve, dirección de flujo, flujo acumulado,
+corrientes de agua y el orden de corriente.
+Complementación de la información e incremento de la red
+de drenaje superficial infiriendo corrientes a partir del
+análisis de curvas de nivel, sombreado del relieve.
+Identificación de la Red Hidrográfica, a partir de ortofotos,
+para el trazado del complemento de las cuencas
+endorreicas y arréicas del norte y sureste del país; así
+como de algunas zonas del centro del país que
+presentaron problemas en la interpretación para el trazo
+correcto de los cauces.
+El resultado preliminar de la Red Hidrográfica se
+proporcionó a un grupo de especialistas nacionales con la
+finalidad de aumentar su exactitud y de incluir aquellas
+corrientes que tienen cierta importancia y que no fueron
+incluidas en esta etapa.
+Una vez integrada la Red Hidrográfica, se asignó la
+jerarquía según Horton-Strahler, a cada segmento que la
+integra, para obtener la magnitud de orden.
+Se obtuvo la RED HIDROGRÁFICA DIGITAL DE MÉXICO
+ESCALA 1:250 000, Edición 1.0 a nivel de región
+Hidrológica, implementado bajo ambiente SIG, lo que
+permitió generar la tabla de atributos que contiene las
+propiedades básicas de cada una de las entidades.
+</procdesc>
+<srcused>INEGI</srcused>
+<procdate>20061200</procdate>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Geól. Rogelio Mondragón Bonilla</cntper>
+<cntorg>Instituto Nacional de Estadística y Geografía. INEGI</cntorg>
+</cntperp>
+<cntpos>Jefe del Departamento de Hidrología.</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>
+Av. Héroe de Nacozari Sur # 2301,
+Fraccionamiento Jardines del
+Parque, Puerta 9 primer nivel.
+</address>
+<city>Aguascalientes</city>
+<state>Aguascalientes</state>
+<postal>20276</postal>
+<country>México</country>
+</cntaddr>
+<cntvoice>52 (449) 910 53 00 Ext. 4969</cntvoice>
+<cntemail>rogelio.mondragon@inegi.org.mx</cntemail>
+<hours>De 8:30 a 16:30 hrs., de lunes a viernes.</hours>
+<cntinst>
+Los centros de venta del INEGI están distribuidos en todo
+el país, cuentan con un catálogo de productos digitales
+en materia de información geográfica que la institución
+ofrece a los usuarios.
+</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<vpfterm>
+<vpflevel>1</vpflevel>
+<vpfinfo>
+<vpftype>Edge</vpftype>
+<ptvctcnt>112994</ptvctcnt>
+</vpfinfo>
+<vpfinfo>
+<vpftype>Node</vpftype>
+<ptvctcnt>114198</ptvctcnt>
+</vpfinfo>
+</vpfterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<mapproj>
+<mapprojn>Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll>17.5</stdparll>
+<stdparll>29.5</stdparll>
+<longcm>-102.000000</longcm>
+<latprjo>+12.000000</latprjo>
+<feast>2500000.0</feast>
+<fnorth>0.0</fnorth>
+</lambertc>
+</mapproj>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>1.0</absres>
+<ordres>1.0</ordres>
+</coordrep>
+<plandu>Meters</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>ITRF92</horizdn>
+<ellips>Clarke 1866</ellips>
+<semiaxis>6378206.4</semiaxis>
+<denflat>294.9786982</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altdatum>National Geodetic Vertical Datum of 1929</altdatum>
+<altres>0.5</altres>
+<altunits>Meters</altunits>
+<altenc>Attribute values</altenc>
+</altsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>Norma Interna para el Modelo de Datos Espaciales, Agosto de 2009.</enttypl>
+<enttypd>Los rasgos geográficos representados se definen como objetos espaciales con un componente de representación geométrica y un componente con atributos que los describen. Se le asocia un nombre con el fin de distinguirla de otras entidades (Acueducto, Arroyo, Canal y Río).</enttypd>
+<enttypds>El Diccionario de Datos Vectoriales de Hidrología Superficial escala 1:250 000, contiene la descripción completa de las entidades y sus atributos; están representados http://mapserver.inegi.org.mx/geografia/espanol/normatividad/diccio/HID_SUP.PDF?s=geo&amp;c=1267. Base de Datos Geográficos de la Dirección General de Geografía y Medio Ambiente del Instituto Nacional de Estadística y Geografía. INEGI.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>Están definidos en el Documento Técnico Red Hidrográfica Digital Conectada de México, escala 1:250 000.</attrlabl>
+<attrdef>
+Son las características que describen a una entidad u
+objeto espacial.
+</attrdef>
+<attrdefs>Documento Técnico Red Hidrográfica Digital Conectada de México, escala 1:250 000.</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>Entidades u objetos espaciales.</codesetn>
+<codesets>Documento Técnico Red Hidrográfica Digital Conectada de México, escala 1:250 000.</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntper>Ing. Isidoro Jorge Luis Sosa.</cntper>
+<cntorg>Instituto Nacional de Estadística y Geografía. INEGI.</cntorg>
+</cntperp>
+<cntpos>Responsable del Centro de Ventas.</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>
+Av. Héroe de Nacozari Sur # 2301.
+Fraccionamiento Jardines del
+Parque.
+</address>
+<city>Aguascalientes</city>
+<state>Aguascalientes</state>
+<postal>20276</postal>
+<country>México</country>
+</cntaddr>
+<cntvoice>52 (449) 9 18 19 48 y 9 10 53 00.</cntvoice>
+<cntfax>52 (449) 9 18 22 32</cntfax>
+<cntemail>ventassede@inegi.org.mx, atencion.usuarios@inegi.gob.mx</cntemail>
+<hours>De 8:30 a 21:00 hrs., de lunes a viernes.</hours>
+<cntinst>
+Favor de referirse a la información que está contenida en
+esta misma sección.
+</cntinst>
+</cntinfo>
+</distrib>
+<resdesc>RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA 1:250 000.</resdesc>
+<distliab>
+El Instituto Nacional de Estadística y Geografía, INEGI, no
+se hace responsable por el uso que usted le dé a los
+datos.
+</distliab>
+<techpreq>
+Para el despliegue y explotación de la RED
+HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA 1:250
+000, Edición 1.0, se requiere software tipo Sistemas de
+Información Geográfica (SIG) que acepte archivos en
+formato shape y que genere o acepte redes geométricas.
+</techpreq>
+</distinfo>
+<metainfo>
+<metd>20100414</metd>
+<metrd>20100514</metrd>
+<metfrd>2012</metfrd>
+<metc>
+<cntinfo>
+<cntperp>
+<cntper>Lic. Rafael Arrioja Urzúa.</cntper>
+<cntorg>Instituto Nacional de Estadística y Geografía. INEGI.</cntorg>
+</cntperp>
+<cntpos>Jefe del Departamento. de Administración de Metadatos.</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>
+Av. Héroe de Nacozari Sur # 2301.
+Fraccionamiento Jardines del
+Parque.
+</address>
+<city>Aguascalientes</city>
+<state>Aguascalientes</state>
+<postal>20276</postal>
+<country>México</country>
+</cntaddr>
+<cntvoice>52 (449) 9 10 53 00 Ext. 5631, 1750 y 5147.</cntvoice>
+<cntfax>52 (449) 4 42 41 45</cntfax>
+<cntemail>rafael.arrioja@inegi.org.mx</cntemail>
+<hours>De 8:30 a 16:30 hrs., de lunes a viernes.</hours>
+<cntinst>
+Favor de referirse a la información que está contenida en
+esta misma sección.
+</cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>Local time</mettc>
+<metac>None</metac>
+<metuc>None</metuc>
+</metainfo>
+</metadata>

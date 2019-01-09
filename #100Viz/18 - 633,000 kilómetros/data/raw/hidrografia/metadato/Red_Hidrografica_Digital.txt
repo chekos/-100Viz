@@ -1,0 +1,439 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Instituto Nacional de Estadística y Geografía - INEGI(ed.)
+      Publication_Date: Unknown
+      Publication_Time: Unknown
+      Title: RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA 1:250 000
+      Edition: I
+      Geospatial_Data_Presentation_Form: map
+      Series_Information:
+        Series_Name: Hidrología
+        Issue_Identification: Primera
+      Publication_Information:
+        Publication_Place: Aguascalientes, Ags., México.
+        Publisher: Instituto Nacional de Estadística y Geografía - INEGI.
+      Online_Linkage: http://www.inegi.org.mx/
+  Description:
+    Abstract:
+      La RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA
+      1:250 000, Edición 1.0. Es el resultado de conectar y dar
+      sentido lógico de acuerdo con la topografía, los ríos,
+      arroyos, canales y acueductos; el procedimiento consisti
+      en generar por medios automatizados y
+      semiautomatizados; la continuidad en el trazo desde el
+      nacimiento de una corriente de agua hasta su
+      desembocadura al mar, cuerpo de agua interior o bien al
+      desaparecer por algún proceso de infiltración al subsuelo.
+      La red de drenaje se define básicamente como un sistema
+      de cauces por el cual fluyen los escurrimientos
+      superficiales y subsuperficiales de manera temporal o
+      permanente. Su importancia se manifiesta por sus efectos
+      en la formación y rapidez del drenado de escurrimientos
+      normales o extraordinarios; además de proporcionar
+      indicios sobre las condiciones físicas de los suelos, la
+      superficie y morfometría de la cuenca. Tipos de corriente y
+      magnitud de orden dentro de una cuenca.
+      Por lo tanto, las corrientes comúnmente se clasifican en;
+      perennes e intermitentes; ello con base a la constancia de
+      su escurrimiento o flujo, el cual está relacionado con las
+      características físicas y climáticas de la cuenca. Las
+      corrientes perennes conducen agua todo el tiempo,
+      excepto durante sequías extremas. Una corriente
+      intermitente lleva agua la mayor parte del tiempo, pero
+      principalmente en épocas de lluvias.
+      Las obras de infraestructura hidráulica que permiten la
+      continuidad de la Red Hidrográfica, consideradas en esta
+      obra son canal y acueducto.
+    Purpose:
+      Brindar a los usuarios una herramienta digital que facilite
+      proyectos de planeación, manejo y gestión de los recursos
+      naturales, en especial bajo el enfoque de Cuenca
+      Hidrográfica.
+      Disponer de una red hidrográfica digital nacional, significa
+      contar con un sistema de circulación lineal, jerarquizado y
+      estructurado que representa el drenaje de una cuenca o
+      una región determinada. Este esfuerzo busca homogenizar
+      criterios entre las distintas instituciones académicas y
+      dependencias gubernamentales, y brindar una red
+      hidrográfica nacional estandarizada para los diferentes
+      usuarios de la información hidrológica y potenciales
+      tomadores de decisiones.
+    Supplemental_Information:
+      La RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA
+      1:250 000, Edición 1.0, está disponible en formato shape
+      y estructurada para ser utilizada como red geométrica que
+      permita el análisis espacial.
+      El formato Shape (shp) es compatible con numerosas
+      plataformas que permitan la manipulación de datos
+      geográficos en aplicaciones cartográficas y de Sistemas
+      de Información Geográfica SIG; por tal motivo, y con la
+      idea de que el usuario recupere en forma íntegra las
+      entidades y atributos establecidos en el modelo
+      conceptual, se optó por distribuir la información en formato
+      Shape.
+      El diseño de la cobertura tiene la finalidad de conservar la
+      información de los rasgos geográficos, sus valores y
+      atributos, y no contiene implícito un esquema de
+      representación cartográfica, como colores, tipos de línea,
+      símbolos, etcétera. Una vez recuperados los datos, el
+      usuario podrá establecer las reglas de representación y
+      modelaje cartográfico que mejor le convenga.
+      La información está estructurada de modo que garantiza la
+      consistencia geométrica de los elementos vectoriales, esta
+      característica permite su adecuación en diversos formatos
+      digitales, en sistemas de información geográfica y de
+      cartografía asistida por computadora.
+      La referencia geográfica de la información permite que la
+      información RED HIDROGRÁFICA DIGITAL DE MÉXICO
+      ESCALA 1:250 000, Edición 1.0 se integre con otros
+      grupos de datos vectoriales o de tipo raster, como los
+      modelos digitales de elevación, o imágenes obtenidas por
+      sensores remotos.
+      Los datos están estructurados vectorialmente sin
+      inconsistencias geométricas, lo que permite desarrollar la
+      topología requerida en la aplicación particular que
+      satisfaga las necesidades del usuario.
+      El manejo de la información da la posibilidad de obtener
+      gráficas y estadísticas de alguna región de interés, sujeto
+      solamente a la disponibilidad y capacidad de
+      infraestructura para impresión del usuario (graficadores,
+      impresoras, entre otras). Archivos que conforman la
+      cobertura en formato shape:
+      Red_hidrografica_250k.dbf
+      Red_hidrografica_250k.sbn
+      Red_hidrografica_250k.sbx
+      Red_hidrografica_250k.shp
+      Red_hidrografica_250k.shx
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20061200
+    Currentness_Reference: Publication Date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -120.000000
+      East_Bounding_Coordinate: -084.000000
+      North_Bounding_Coordinate: +36.000000
+      South_Bounding_Coordinate: +12.000000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Arroyo
+      Theme_Keyword: Canal
+      Theme_Keyword: Red Geométrica
+      Theme_Keyword: Regimen
+      Theme_Keyword: Río
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Regiones Hidrológicas
+      Place_Keyword: Río Ameca
+      Place_Keyword: Río Armeria
+      Place_Keyword: Río Balsas
+      Place_Keyword: Río Bravo
+      Place_Keyword: Río Candelaria
+      Place_Keyword: Río Cazones
+      Place_Keyword: Río Coahuayana
+      Place_Keyword: Río Coatán
+      Place_Keyword: Río Coatzacoalcos
+      Place_Keyword: Río Colorado
+      Place_Keyword: Río Elota
+      Place_Keyword: Río Grijalva
+      Place_Keyword: Río Hondo
+      Place_Keyword: Río Lerma
+      Place_Keyword: Río Nazas
+      Place_Keyword: Río Ometepec
+      Place_Keyword: Río Papagayo
+      Place_Keyword: Río Papaloapan
+      Place_Keyword: Río San Pedro
+      Place_Keyword: Río Santiago
+      Place_Keyword: Río Soto La Marina
+      Place_Keyword: Río Suchiate
+      Place_Keyword: Río Tehuantepec
+      Place_Keyword: Río Tijuana
+      Place_Keyword: Río Usumacinta
+      Place_Keyword: Río Verde
+      Place_Keyword: Río Yaqui
+      Place_Keyword: México
+  Access_Constraints:
+    Acceso con costo al público a través de los centros de
+    venta del Instituto Nacional de Estadística y Geografía.
+    INEGI.
+  Use_Constraints: None
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Instituto Nacional de Estadística y Geografía - INEGI.
+        Contact_Person: Geól. Rogelio Mondragón Bonilla.
+      Contact_Position: Jefe del Departamento de Hidrología.
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Av. Héroe de Nacozari Sur # 2301.
+          Fraccionamiento Jardines del
+          Parque, Puerta 9 primer nivel.
+        City: Aguascalientes
+        State_or_Province: Aguascalientes
+        Postal_Code: 20276
+        Country: México
+      Contact_Voice_Telephone: 52 (449) 9 10 53 00 Extensión 4969
+      Contact_Facsimile_Telephone: 52 (449) 9 18 07 39
+      Contact_Electronic_Mail_Address: rogelio.mondragon@inegi.org.mx
+      Hours_of_Service: De 8:30 a 16:30 hrs., de lunes a viernes.
+      Contact_Instructions:
+        Solicitar informes a los Centros de Venta del INEGI
+        distribuidos en todo el país o en las Oficinas Centrales
+        localizadas en la ciudad de Aguascalientes, México.
+  Data_Set_Credit:
+    Esta obra está protegida por la Ley Federal del Derecho
+    de Autor, por lo tanto está inscrita en el Registro público
+    del Derecho de Autor, siendo el INEGI el titular de los
+    derechos correspondientes.
+  Security_Information:
+    Security_Handling_Description: Ninguno
+    Security_Classification: Restricted
+    Security_Classification_System: no
+  Native_Data_Set_Environment: Carta Topográfica escala 1:250 000 editada por el INEGI.
+Data_Quality_Information:
+  Logical_Consistency_Report:
+    Para mantener el control de calidad y la confiabilidad de
+    los datos de la RED HIDROGRÁFICA DIGITAL DE
+    MÉXICO ESCALA 1:250 000, Edición 1.0, se realizaron
+    cuatro etapas en secuencia, que a su vez agrupan varias
+    actividades interrelacionadas que permiten la validación.
+    1. Identificación de entidades geográficas declaradas por
+    la carta topográfica mediante la sobre posición a imágenes
+    de satélite spot.
+    2. Verificación de atributos.
+    3. Ajuste con los límites de las cuencas hidrográficas a
+    nivel de región hidrográfica.
+    4. Integración del Conjunto de Datos Nacional.
+  Completeness_Report:
+    La información está estructurada de tal modo que
+    garantiza la consistencia geométrica de los elementos
+    vectoriales, lo que permite su adecuación en diversas
+    plataformas SIG y otros sistemas. La referencia geográfica
+    permite que la Red se integre con otros grupos de datos
+    vectoriales o de tipo raster. Además está estructurada para
+    generar Redes Geométricas en las cuales los rasgos
+    hidrográficos lineales generalmente son representados
+    mediante nodos y ejes que definen el sentido o dirección
+    del flujo de las aguas superficiales.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Instituto Nacional de Estadística y Geografía - INEGI(ed.)
+          Publication_Date: Unknown
+          Publication_Time: Unknown
+          Title: Carta Topográfica Escala 1:250 000
+          Edition: II
+          Geospatial_Data_Presentation_Form: map
+          Series_Information:
+            Series_Name: Carta Topográfica Escala 1:250 000
+            Issue_Identification: Segunda edición
+          Publication_Information:
+            Publication_Place: Aguascalientes, Ags.
+            Publisher: INEGI
+          Online_Linkage: http://www.inegi.org.mx/
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20061200
+        Source_Currentness_Reference: Publication Date
+      Source_Citation_Abbreviation: INEGI
+      Source_Contribution:
+        La carta topográfica escala 1:250 000 editada por INEGI
+        tiene cubrimiento nacional, considera entre su información
+        los acueductos, arroyos, canales y ríos del país,
+        originalmente se emitió como un producto impreso en
+        papel y una vez convertida a formato digital, fue insumo
+        base para producir la RED HIDROGRÁFICA DIGITAL DE
+        MÉXICO ESCALA 1:250  000, Edición 1.0.
+    Process_Step:
+      Process_Description:
+        La información de la Carta Topográfica escala 1:250 000,
+        generada por el Instituto Nacional de Estadística y
+        Geografía; constituyó el insumo principal para elaborar la
+        RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA
+        1:250 000, Edición 1.0. Los pasos metodológicos fueron:
+        Integración, revisión y rectificación de la red hidrográfica
+        1:250 000 a nivel de cuenca hidrográfica.
+        Procesamiento del Modelo Digital del Terreno, para
+        sombreado del relieve, dirección de flujo, flujo acumulado,
+        corrientes de agua y el orden de corriente.
+        Complementación de la información e incremento de la red
+        de drenaje superficial infiriendo corrientes a partir del
+        análisis de curvas de nivel, sombreado del relieve.
+        Identificación de la Red Hidrográfica, a partir de ortofotos,
+        para el trazado del complemento de las cuencas
+        endorreicas y arréicas del norte y sureste del país; así
+        como de algunas zonas del centro del país que
+        presentaron problemas en la interpretación para el trazo
+        correcto de los cauces.
+        El resultado preliminar de la Red Hidrográfica se
+        proporcionó a un grupo de especialistas nacionales con la
+        finalidad de aumentar su exactitud y de incluir aquellas
+        corrientes que tienen cierta importancia y que no fueron
+        incluidas en esta etapa.
+        Una vez integrada la Red Hidrográfica, se asignó la
+        jerarquía según Horton-Strahler, a cada segmento que la
+        integra, para obtener la magnitud de orden.
+        Se obtuvo la RED HIDROGRÁFICA DIGITAL DE MÉXICO
+        ESCALA 1:250 000, Edición 1.0 a nivel de región
+        Hidrológica, implementado bajo ambiente SIG, lo que
+        permitió generar la tabla de atributos que contiene las
+        propiedades básicas de cada una de las entidades.
+      Source_Used_Citation_Abbreviation: INEGI
+      Process_Date: 20061200
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Geól. Rogelio Mondragón Bonilla
+            Contact_Organization: Instituto Nacional de Estadística y Geografía. INEGI
+          Contact_Position: Jefe del Departamento de Hidrología.
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              Av. Héroe de Nacozari Sur # 2301,
+              Fraccionamiento Jardines del
+              Parque, Puerta 9 primer nivel.
+            City: Aguascalientes
+            State_or_Province: Aguascalientes
+            Postal_Code: 20276
+            Country: México
+          Contact_Voice_Telephone: 52 (449) 910 53 00 Ext. 4969
+          Contact_Electronic_Mail_Address: rogelio.mondragon@inegi.org.mx
+          Hours_of_Service: De 8:30 a 16:30 hrs., de lunes a viernes.
+          Contact_Instructions:
+            Los centros de venta del INEGI están distribuidos en todo
+            el país, cuentan con un catálogo de productos digitales
+            en materia de información geográfica que la institución
+            ofrece a los usuarios.
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    VPF_Terms_Description:
+      VPF_Topology_Level: 1
+      VPF_Point_and_Vector_Object_Information:
+        VPF_Point_and_Vector_Object_Type: Edge
+        Point_and_Vector_Object_Count: 112994
+      VPF_Point_and_Vector_Object_Information:
+        VPF_Point_and_Vector_Object_Type: Node
+        Point_and_Vector_Object_Count: 114198
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 17.5
+          Standard_Parallel: 29.5
+          Longitude_of_Central_Meridian: -102.000000
+          Latitude_of_Projection_Origin: +12.000000
+          False_Easting: 2500000.0
+          False_Northing: 0.0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 1.0
+          Ordinate_Resolution: 1.0
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: ITRF92
+      Ellipsoid_Name: Clarke 1866
+      Semi-major_Axis: 6378206.4
+      Denominator_of_Flattening_Ratio: 294.9786982
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Datum_Name: National Geodetic Vertical Datum of 1929
+      Altitude_Resolution: 0.5
+      Altitude_Distance_Units: Meters
+      Altitude_Encoding_Method: Attribute values
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Norma Interna para el Modelo de Datos Espaciales, Agosto de 2009.
+      Entity_Type_Definition: Los rasgos geográficos representados se definen como objetos espaciales con un componente de representación geométrica y un componente con atributos que los describen. Se le asocia un nombre con el fin de distinguirla de otras entidades (Acueducto, Arroyo, Canal y Río).
+      Entity_Type_Definition_Source: El Diccionario de Datos Vectoriales de Hidrología Superficial escala 1:250 000, contiene la descripción completa de las entidades y sus atributos; están representados http://mapserver.inegi.org.mx/geografia/espanol/normatividad/diccio/HID_SUP.PDF?s=geo&c=1267. Base de Datos Geográficos de la Dirección General de Geografía y Medio Ambiente del Instituto Nacional de Estadística y Geografía. INEGI.
+    Attribute:
+      Attribute_Label: Están definidos en el Documento Técnico Red Hidrográfica Digital Conectada de México, escala 1:250 000.
+      Attribute_Definition:
+        Son las características que describen a una entidad u
+        objeto espacial.
+      Attribute_Definition_Source: Documento Técnico Red Hidrográfica Digital Conectada de México, escala 1:250 000.
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Entidades u objetos espaciales.
+          Codeset_Source: Documento Técnico Red Hidrográfica Digital Conectada de México, escala 1:250 000.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Ing. Isidoro Jorge Luis Sosa.
+        Contact_Organization: Instituto Nacional de Estadística y Geografía. INEGI.
+      Contact_Position: Responsable del Centro de Ventas.
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Av. Héroe de Nacozari Sur # 2301.
+          Fraccionamiento Jardines del
+          Parque.
+        City: Aguascalientes
+        State_or_Province: Aguascalientes
+        Postal_Code: 20276
+        Country: México
+      Contact_Voice_Telephone: 52 (449) 9 18 19 48 y 9 10 53 00.
+      Contact_Facsimile_Telephone: 52 (449) 9 18 22 32
+      Contact_Electronic_Mail_Address: ventassede@inegi.org.mx, atencion.usuarios@inegi.gob.mx
+      Hours_of_Service: De 8:30 a 21:00 hrs., de lunes a viernes.
+      Contact_Instructions:
+        Favor de referirse a la información que está contenida en
+        esta misma sección.
+  Resource_Description: RED HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA 1:250 000.
+  Distribution_Liability:
+    El Instituto Nacional de Estadística y Geografía, INEGI, no
+    se hace responsable por el uso que usted le dé a los
+    datos.
+  Technical_Prerequisites:
+    Para el despliegue y explotación de la RED
+    HIDROGRÁFICA DIGITAL DE MÉXICO ESCALA 1:250
+    000, Edición 1.0, se requiere software tipo Sistemas de
+    Información Geográfica (SIG) que acepte archivos en
+    formato shape y que genere o acepte redes geométricas.
+Metadata_Reference_Information:
+  Metadata_Date: 20100414
+  Metadata_Review_Date: 20100514
+  Metadata_Future_Review_Date: 2012
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Lic. Rafael Arrioja Urzúa.
+        Contact_Organization: Instituto Nacional de Estadística y Geografía. INEGI.
+      Contact_Position: Jefe del Departamento. de Administración de Metadatos.
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Av. Héroe de Nacozari Sur # 2301.
+          Fraccionamiento Jardines del
+          Parque.
+        City: Aguascalientes
+        State_or_Province: Aguascalientes
+        Postal_Code: 20276
+        Country: México
+      Contact_Voice_Telephone: 52 (449) 9 10 53 00 Ext. 5631, 1750 y 5147.
+      Contact_Facsimile_Telephone: 52 (449) 4 42 41 45
+      Contact_Electronic_Mail_Address: rafael.arrioja@inegi.org.mx
+      Hours_of_Service: De 8:30 a 16:30 hrs., de lunes a viernes.
+      Contact_Instructions:
+        Favor de referirse a la información que está contenida en
+        esta misma sección.
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: Local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
