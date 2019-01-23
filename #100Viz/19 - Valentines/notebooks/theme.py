@@ -174,8 +174,8 @@ def cimarron_theme():
                }
            },
            "title":{
-               "anchor": "start",
-               "fontSize": 60,
+               "anchor": "middle",
+               "fontSize": 96,
                "fontWeight": 600,
                "font": font,
                "offset": 20,

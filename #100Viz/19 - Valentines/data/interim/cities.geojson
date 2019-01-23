@@ -9,7 +9,8 @@
                 "latitude": 32.53,
                 "longitude": -117.08,
                 "emoji": "\u2764\ufe0f",
-                "emoji_blue": "\ud83d\udc99"
+                "emoji_blue": "\ud83d\udc99",
+                "cities_names": "Tijuana \ud83d\udc99\t\t\t\t\t\t\t\t"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "latitude": 32.64,
                 "longitude": -117.08,
                 "emoji": "\u2764\ufe0f",
-                "emoji_blue": "\ud83d\udc99"
+                "emoji_blue": "\ud83d\udc99",
+                "cities_names": "\t\t\t\t\t\t\t\t\t\t\t\t\ud83d\udc99 Chula Vista"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "latitude": 37.87,
                 "longitude": -122.28,
                 "emoji": "\u2764\ufe0f",
-                "emoji_blue": "\ud83d\udc99"
+                "emoji_blue": "\ud83d\udc99",
+                "cities_names": "Berkeley \ud83d\udc99\t\t\t\t\t\t\t\t\t"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +66,8 @@
                 "latitude": 47.25,
                 "longitude": -122.44,
                 "emoji": "\u2764\ufe0f",
-                "emoji_blue": "\ud83d\udc99"
+                "emoji_blue": "\ud83d\udc99",
+                "cities_names": "\t\t\t\t\t\ud83d\udc99 Tacoma"
             },
             "geometry": {
                 "type": "Point",
@@ -78,16 +82,17 @@
             "type": "Feature",
             "properties": {
                 "cities": "Davis",
-                "latitude": 38.54,
+                "latitude": 38.74,
                 "longitude": -121.74,
                 "emoji": "\u2764\ufe0f",
-                "emoji_blue": "\ud83d\udc99"
+                "emoji_blue": "\ud83d\udc99",
+                "cities_names": "\t\t\t\t\t\t\t\t\ud83d\udc99 Davis\n\n "
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -121.74,
-                    38.54
+                    38.74
                 ]
             }
         },
@@ -96,16 +101,17 @@
             "type": "Feature",
             "properties": {
                 "cities": "San Leandro",
-                "latitude": 37.73,
-                "longitude": -122.16,
+                "latitude": 37.43,
+                "longitude": -122.05,
                 "emoji": "\u2764\ufe0f",
-                "emoji_blue": "\ud83d\udc99"
+                "emoji_blue": "\ud83d\udc99",
+                "cities_names": "\t\t\t\t\t\t\t\t\t\t\t\t\ud83d\udc99 San Leandro"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.16,
-                    37.73
+                    -122.05,
+                    37.43
                 ]
             }
         },
@@ -117,7 +123,8 @@
                 "latitude": 17.07,
                 "longitude": -96.73,
                 "emoji": "\u2764\ufe0f",
-                "emoji_blue": "\ud83d\udc99"
+                "emoji_blue": "\ud83d\udc99",
+                "cities_names": "\t\t\t\t\t\t\t\ud83d\udc99Oaxaca"
             },
             "geometry": {
                 "type": "Point",

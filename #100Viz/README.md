@@ -41,6 +41,7 @@ Each containing their own set of folders (working vs final, etc.) unless the fil
   <img src="16 - BAs in the Bay/reports/figures/16 - BAs in the Bay.png"  height="150" title="16 - BAs in the Bay">
   <img src="17 - BAs in the Bay (Remix)/reports/figures/17 - BAs in the Bay (Remix).png" height="150" title="17 - BAs in the Bay (Remix)">
   <img src="18 - 633,000 kilómetros/reports/figures/final/18 - 633,000 kilómetros.png" height="150" title="18 - 633,000 kilómetros">
+  <img src="19 - Valentines/reports/figures/final/19 - Valentines.png" height="150" title="19 - Valentines">
 </p>
 
 ***
