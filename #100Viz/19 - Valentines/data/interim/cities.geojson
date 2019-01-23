@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "cities": "Tijuana",
+                "latitude": 32.53,
+                "longitude": -117.08,
+                "emoji": "\u2764\ufe0f",
+                "emoji_blue": "\ud83d\udc99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.08,
+                    32.53
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "cities": "Chula Vista",
+                "latitude": 32.64,
+                "longitude": -117.08,
+                "emoji": "\u2764\ufe0f",
+                "emoji_blue": "\ud83d\udc99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.08,
+                    32.64
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "cities": "Berkeley",
+                "latitude": 37.87,
+                "longitude": -122.28,
+                "emoji": "\u2764\ufe0f",
+                "emoji_blue": "\ud83d\udc99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.28,
+                    37.87
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "cities": "Tacoma",
+                "latitude": 47.25,
+                "longitude": -122.44,
+                "emoji": "\u2764\ufe0f",
+                "emoji_blue": "\ud83d\udc99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.44,
+                    47.25
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "cities": "Davis",
+                "latitude": 38.54,
+                "longitude": -121.74,
+                "emoji": "\u2764\ufe0f",
+                "emoji_blue": "\ud83d\udc99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.74,
+                    38.54
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "cities": "San Leandro",
+                "latitude": 37.73,
+                "longitude": -122.16,
+                "emoji": "\u2764\ufe0f",
+                "emoji_blue": "\ud83d\udc99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.16,
+                    37.73
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "cities": "Oaxaca",
+                "latitude": 17.07,
+                "longitude": -96.73,
+                "emoji": "\u2764\ufe0f",
+                "emoji_blue": "\ud83d\udc99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.73,
+                    17.07
+                ]
+            }
+        }
+    ]
+}
