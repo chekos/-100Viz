@@ -85,7 +85,7 @@ def contador(filepath: str = sys.argv[1], numero: int = 100):
 if __name__ == "__main__":
     
     filepath_out, filename = contador(filepath = sys.argv[1],)
-    
+
     print("#"*70)
     print("_"*70)
     print(f"Limpiando el archivo {filename}")
@@ -93,6 +93,6 @@ if __name__ == "__main__":
         pass
     print("_"*70)
     print(f"Guardando el archivo {filepath_out}")
-    for i in tqdm(range(5_000_000)):
+    for _ in tqdm(range(5_000_000)):
         pass
     print("#"*70)
